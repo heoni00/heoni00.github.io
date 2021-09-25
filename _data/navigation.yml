@@ -2,10 +2,11 @@
 main:
   - title: "Home"
     url: /index.html
-  #- title: "About"
-    #url: /about/
   - title: "Category"
     url: /categories/
+  - title: "About"
+    url: /about/
+    
   #- title: "Tag"
     #url: /tags/
   #- title: "Post by Year"
