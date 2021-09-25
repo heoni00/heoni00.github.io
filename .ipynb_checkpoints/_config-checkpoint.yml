@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "default"  "air", "aqua", "contrast", , "
 
 # Site Settings
 locale                   : "ko-KR" # 블로그 사용 언어
-title                    : "Heoni Teck" # 블로그 타이틀
+title                    : "Heoni Tech" # 블로그 타이틀
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Heoni🍯"
