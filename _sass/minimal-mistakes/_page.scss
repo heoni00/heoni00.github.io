@@ -348,7 +348,7 @@ body {
   border-radius: $border-radius;
   background-color: mix(#fff, #b5bdc2, 18%);
   font-family: $serif;
-  color: mix(#fff, $primary-color, 2%);;
+  color: mix(rgb(255, 255, 255), $primary-color, 2%);;
 
   &:hover {
     text-decoration: none;
@@ -409,7 +409,7 @@ body {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    color: mix(rgb(255, 0, 0), $primary-color, 60%);
+    color: mix(rgb(0, 0, 0), $primary-color, 60%);
     text-decoration: none;
     border-bottom: 1px solid $border-color;
     font-family: $serif;
