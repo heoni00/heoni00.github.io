@@ -5,18 +5,18 @@
 /* Colors */
 $background-color: #ffffff !default;
 $text-color: #202020 !default;
-$primary-color: #258025 !default;
-$border-color: mix(#ff0000, $background-color, 20%) !default;
-$code-background-color: #c7c7c7 !default;
-$code-background-color-dark: #797979 !default;
+$primary-color: #247524 !default;
+$border-color: mix(#202020, $background-color, 20%) !default;
+$code-background-color: #ff0000 !default;
+$code-background-color-dark: #ffee00 !default;
 $form-background-color: mix(rgb(255, 255, 255), $background-color, 15%) !default;
 $footer-background-color: mix(rgb(255, 255, 255), $background-color, 20%) !default;
 $link-color: mix(#00b58e, $text-color, 40%) !default;
-$link-color-hover: mix(rgb(44, 44, 44), $link-color, 25%) !default;
+$link-color-hover: mix(rgb(255, 0, 255), $link-color, 25%) !default;
 $link-color-visited: mix(#00b58e, $text-color, 40%) !default;
 $masthead-link-color: $text-color !default;
-$masthead-link-color-hover: mix(rgb(255, 251, 0), $text-color, 20%) !default;
-$navicon-link-color-hover: mix(rgb(25, 0, 255), $background-color, 30%) !default;
+$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
+$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons .svg-inline--fa {
