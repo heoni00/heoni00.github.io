@@ -19,7 +19,7 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.75;
+    opacity: 0.9;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
@@ -175,13 +175,13 @@
 .sidebar .author__name {
   font-family: $cute;
   font-size: $type-size-4;
-  color:#FFF;
+  color:rgb(30, 36, 32);
 }
 
 .author__bio {
   margin: 0;
   font-family: $cute;
-  font-size: $type-size-4;
+  font-size: $type-size-5;
 
   @include breakpoint($large) {
     margin-top: 10px;
