@@ -44,7 +44,7 @@ last_modified_at: 2020-10-11
 
 Developer Program Member는 깃허브의 개발자 프로그램 멤버가 된다는 것을 증명하는 뱃지입니다. 
 
-https://developer.github.com/program/
+[Developer Program Member Rigister](https://developer.github.com/program/)
 
 위 사이트에 접속한 뒤 Rigister를 누르면 
 
@@ -54,7 +54,7 @@ https://developer.github.com/program/
 
 마지막으로 PRO 뱃지는 깃허브 프로 계정을 사용하고 있다는 뱃지입니다. 유료이지만 대학생이라면 학교 메일 계정으로 교육용 크레뎃을 제공아 무료로 사용 가능합니다. 
 
-https://education.github.com/pack
+[Git 교육용 크레뎃](https://education.github.com/pack)
 링크를 통해 확인해보세요~!
 
 ## 3. 깃허브와 자신을 어필 할 수 있는 README.md 파일 만들기. 
@@ -83,7 +83,7 @@ https://education.github.com/pack
 
 1_ Github profile readme generator 사이트 이용하기. 
 
-+ https://arturssmirnovs.github.io/github-profile-readme-generator/ 
++ [깃허브 프로필 편집기](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 
 ![image](https://user-images.githubusercontent.com/67791317/136751216-43d48356-7600-45e7-9b05-42362e906357.png)
 
@@ -97,7 +97,7 @@ https://education.github.com/pack
 
 (오픈 소스를 클론하는건 나쁜짓은 아니라 크게 걱정은 하지 않지만 ,, 감사인사 혹은 양해를 구하면 더 좋을 것 같습니다! 어찌됐든 그분이 고생한 공유재산이니까요😄😄)
 
-https://github.com/heoni00/heoni00 
+[작성자의 README파일🙂](https://github.com/heoni00/heoni00)
 제 README파일입니다. 마음껏 가지고 가주세요~ 
 
 ## 어필하고 싶은 레포지토리 고정하기
