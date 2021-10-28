@@ -53,10 +53,9 @@ SQL 자격검정 실전문제 - Kdata 한국데이터진흥원
 
 뭐 ,, 데이터자격증 주관 기관에서 직접 만든 문제풀이집으로 수능으로 치면 ,,, 6,9평 모의고사와 비견될만한 거의 ,, 문제풀이의 바이블이죠. 꼭 풀어야한다고 들었습니다. 모르더라도 그냥 풀면서 해셜보고 외운다 생각하고 공부하면 될 것 같습니다. 
 
-www.youtube.com/playlist?list=PLyQR2NzLKOCZU_jjLAdebyx9oE9dvvsrE
+[정미나 쌤 SQL 문제풀이](www.youtube.com/playlist?list=PLyQR2NzLKOCZU_jjLAdebyx9oE9dvvsrE)
 
 혹시라도 문제가 이해가 너무 안되서 외우기도 힘들다면 SQL전문가 정미나 쌤의 강의를 들으면 될 것 같습니다. 해당 문풀 영상이 있다면 이해하기 더 쉬울 것 같네요.
-
 
 
 ### STEP4 기출풀기   
