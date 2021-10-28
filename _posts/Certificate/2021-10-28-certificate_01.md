@@ -27,25 +27,27 @@ last_modified_at: 2020-10-28
 
 ## 시험 공부 방법
 
-### STEP1 요약강의 듣기. 
+### STEP1 요약강의 듣기.   
 
 사아실,, 필수는 아닌것 같지만 공부하기 전에 전반적인 틀을 잡고 하는것을 좋아하기 때문에 우선 염두하여본다. 
 
 [강의 1편 : SELECT문장 ~ 트랜잭션 관리 언어(TCL)](www.youtube.com/watch?v=PC3ypt_VGWI)
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/PC3ypt_VGWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/PC3ypt_VGWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 
 [강의 2편 : 윈도우 함수 ~ 인덱스(Index)](www.youtube.com/watch?v=PjCSvexo3Ow&t=8s)
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/PjCSvexo3Ow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/PjCSvexo3Ow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 
 (만일 시험까지 얼마 남지 않는다, 시험 합격에만 집중한다면 ,, 넘어가도 될 것 같습니다.)
 
-### STEP2 요약서 1~2회독하기 
+### STEP2 요약서 1~2회독하기  
 
 개인적으로 모든 공부는 결국 이론이 탄탄해야한다고 생각하지만 ,, 지난 ADsP시험에서 깨달은건 결국 자격증은 문제풀이 특히 기출이 답이다는걸 깨달았기에 ,,, 1~2회독으로 끝내도록한다. 이해가 되지 않을 수도 있지만 우선은 빠르게 전체를 스캔하고 맥락을 이해한다고 생각한다. 나머지는 문제풀이를 하며 속속히 외우는걸로. 
 
-### STEP3 문제풀이  
+### STEP3 문제풀이   
 
 SQL 자격검정 실전문제 - Kdata 한국데이터진흥원
 
@@ -57,13 +59,14 @@ www.youtube.com/playlist?list=PLyQR2NzLKOCZU_jjLAdebyx9oE9dvvsrE
 
 
 
-### STEP4 기출풀기 
+### STEP4 기출풀기   
 
 사실 ,, 이게 정답이죠. 어찌됐든 자격증 시험은 문제은행식이라 이전에 나왔던 문제들이 나오거나 조금 변형되 나오기 때문에 기출을 달달달 외고 가면 합격 가능성이 더 높아지는 것 같습니다. 
 
 [데이터 전문가 포럼 카페](cafe.naver.com/sqlpd?email=40adb98cf0cdc44974a88d74fa773bb3)
 
-기출 문제는 해당 카페에 가입 후 다운받기. 
+기출 문제는 해당 카페에 가입 후 다운받기.   
+ 
 
 ----
 
