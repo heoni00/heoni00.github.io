@@ -51,6 +51,8 @@ last_modified_at: 2020-10-28
 
 SQL 자격검정 실전문제 - Kdata 한국데이터진흥원
 
+![image](https://user-images.githubusercontent.com/67791317/139618496-378bfb48-8531-4450-9a6f-f4d61e5ba0ef.png)
+
 뭐 ,, 데이터자격증 주관 기관에서 직접 만든 문제풀이집으로 수능으로 치면 ,,, 6,9평 모의고사와 비견될만한 거의 ,, 문제풀이의 바이블이죠. 꼭 풀어야한다고 들었습니다. 모르더라도 그냥 풀면서 해셜보고 외운다 생각하고 공부하면 될 것 같습니다. 
 
 [정미나 쌤 SQL 문제풀이](www.youtube.com/playlist?list=PLyQR2NzLKOCZU_jjLAdebyx9oE9dvvsrE)
