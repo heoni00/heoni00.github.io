@@ -37,9 +37,9 @@ $$
 
 각 항은 다음과 같이 정의된다. 
 
-- SSTotal(총 제곱합) = $$\sum(y-\bar y)^2
-- SSModel(모형으로 설명되는 제곱합) = $$\sum(\hat y - \bar y)^2
-- SSE(오차 제곱합) = $$\sum(y-\hat y)^2
+- SSTotal(총 제곱합) = $$\sum(y-\bar y)^2$$
+- SSModel(모형으로 설명되는 제곱합) = $$\sum(\hat y - \bar y)^2$$
+- SSE(오차 제곱합) = $$\sum(y-\hat y)^2$$
 
 아래 그림에서 총 제곱합과 오차 제곱합을 시각적으로 표현하였다. SSTotal은 반응변수의 값과 평균과의 편차를 구한 거의 제곱합니다.(왼쪽) $$\bar y$$는 예측 변수의 정보가 없을 때 단일 값으로 반응변수를 예측한 조잡한 모형이다. SSE는 반응 변수를 모형으로 예측할 때 발생하는 오차의 제곱합이다.(오른쪽) 
 
@@ -73,11 +73,10 @@ sum( (cereal$Calories - mean(cereal$Calories))^2 )
 
 필요에 의해 분산분석 결과와 총 제곱합 계산의 값만 알아보겠다. 
 
-$$
-| DF | Sum Sq | Mean Sq | F value | Pr(>F) |
+|---| DF | Sum Sq | Mean Sq | F value | Pr(>F) |
+|---|---|---|---|---|---|
 |Sugrar |1|15316|15316.5|21.623|7.217e-05|
 |Residuals|28|19834|708.3|---|---|
-$$
 
 $$
 > sum((cereal$Calories - mean(cereal$Calories))^2)
@@ -116,11 +115,10 @@ $$H_\alpha : \beta_1 \neq 0$$(모형은 효과가 있다.)
 
 위 예제의 분산분석 결과를 이용하여 F-통계량과 p값을 구해보자. 
 
-$$
-| DF | Sum Sq | Mean Sq | F value | Pr(>F) |
+|---| DF | Sum Sq | Mean Sq | F value | Pr(>F) |
+|---|---|---|---|---|---|
 |Sugrar |1|15316|15316.5|21.623|7.217e-05|
 |Residuals|28|19834|708.3|---|---|
-$$
 
 $$
 F = MSModel/MSE = 15316/708.3 = 21.62
