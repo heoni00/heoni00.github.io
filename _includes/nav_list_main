@@ -48,6 +48,20 @@
         <span class="nav__sub-title">Mine</span>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "Professional exp" %}
+                        <li><a href="/categories/professional exp" class="">Professional Experiences({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Project" %}
+                        <li><a href="/categories/project" class="">Project({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>    
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "Certificate" %}
                         <li><a href="/categories/certificate" class="">Certificate({{category[1].size}})</a></li>
                     {% endif %}
