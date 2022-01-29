@@ -1,5 +1,5 @@
 ---
-title: "my treasure no.1 / 지금의 날 있게한 경험들"
+title: "my treasure no.1 / 성취의 기록."
 layout: archive
 permalink: categories/professional exp
 author_profile: true

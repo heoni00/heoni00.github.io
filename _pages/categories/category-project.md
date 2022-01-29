@@ -1,5 +1,5 @@
 ---
-title: "Veni, vidi, vici / 경험은 쟁취하는 거야!"
+title: "Veni, vidi, vici / 몰입은 성장의 아버지."
 layout: archive
 permalink: categories/project
 author_profile: true
