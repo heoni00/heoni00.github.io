@@ -1,7 +1,7 @@
 ---
 title: "my treasure no.1 / 성취의 기록."
 layout: archive
-permalink: categories/professional exp
+permalink: categories/professional-exp
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories.Professional exp %}
+{% assign posts = site.categories.Professional-exp %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

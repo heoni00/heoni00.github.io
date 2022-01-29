@@ -48,8 +48,8 @@
         <span class="nav__sub-title">Mine</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Professional exp" %}
-                        <li><a href="/categories/professional exp" class="">Professional Experiences({{category[1].size}})</a></li>
+                    {% if category[0] == "Professional-exp" %}
+                        <li><a href="/categories/professional-exp" class="">Professional Experiences({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
