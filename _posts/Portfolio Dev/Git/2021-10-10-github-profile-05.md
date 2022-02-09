@@ -5,7 +5,7 @@ excerpt: "Git을 이용하여 나만의 포트폴리오를 만들어보자."
 categories:
   - Git
 tags:
-  - [Github, portfolio]
+  - [Github, Profile, Portfolio]
 
 toc: true
 toc_sticky: true

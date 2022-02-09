@@ -6,7 +6,7 @@ excerpt: "깃헙 블로그는 무엇이고 왜 쓰는 걸까?"
 categories:
   - Blog
 tags:
-  - [Blog, Github]
+  - [Gitpage, search console]
 
 toc: true
 toc_sticky: true

@@ -5,7 +5,7 @@ excerpt: "SQLD 자격증 합격까지 화이팅!!"
 categories:
   - Certificate
 tags:
-  - [Certificate, SQL, Database]
+  - [Bigdata, SQL, Database]
 
 toc: true
 toc_sticky: true
