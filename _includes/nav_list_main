@@ -11,7 +11,7 @@
         <span class="nav__sub-title">Study</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "ITterm" %}
+                    {% if category[0] == "Itterm" %}
                         <li><a href="/categories/itterm" class="">IT Knowledge({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
