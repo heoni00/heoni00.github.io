@@ -1,16 +1,3 @@
----
-title:  "내 피 땀 눈물이 들어간 블로그를 만들며"
-permalink: /about/
-layout: single
-published: true
-date: 2021-09-25
-categories:
-  - Blog
-tags:
-  - Blog
----
-
-
 ### 블로그를 만들며 
 
 About란에는 나에 대한 것, 블로그에 대한 것을 작성하고자 한다. 
