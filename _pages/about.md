@@ -3,7 +3,7 @@ title:  "내 피 땀 눈물이 들어간 블로그를 만들며"
 permalink: /about/
 layout: about
 published: true
-
+author_profile: true
 ---
 
 
