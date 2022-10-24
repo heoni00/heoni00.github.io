@@ -12,7 +12,7 @@ author_profile: true
 
 #### **Introduction**
 
-▪ 밀도 있는 삶을 지향하며 어떤 경험에서든 배움을 얻고 실천하려 합니다.  
+▪ 밀도 있는 삶을 지향하며 어떤 경험에서든 배움을 얻고 실천하려 합니다.   
 ▪ 사회의 핵심 인재, 공헌할 수 있는 사람이 되고 싶습니다.  
 ▪ 숨은 인사이트를 발굴하고 효과적으로 제시하는 방법을 연구합니다.  
 ▪ 기록과 공유의 가치를 알기에 학습한 것들을 Github에 남기고, 블로그를 운영하며 소통하고 있습니다.   
@@ -21,24 +21,23 @@ author_profile: true
 
 #### Analysis
 
-▪ SQL (MySQL)
-▪ Python (Pandas, Numpy, Matplotlib, Folium)
-▪ R 
-▪ 통계학 
+▪ SQL (MySQL)  
+▪ Python (Pandas, Numpy, Matplotlib, Folium)  
+▪ R   
+▪ 통계학   
 
 #### Tools & Collaboration
 
-▪ Excel (분석, 그래프 및 매크로 가능)
-▪ SPSS (교차분석, T검정, 사전*사후 검증 등 가능)
-▪ Git, Git Desktop, Gitpages(Jekyll)
+▪ Excel (분석, 그래프 및 매크로 가능)  
+▪ SPSS (교차분석, T검정, 사전*사후 검증 등 가능)  
+▪ Git, Git Desktop, Gitpages(Jekyll)  
 
 ## 🖥 Work Experience & Projects
 
 > **선거관리위원회 여론조사 분석요원**  
 2022.01 ~ 2022.06
 
-**대선·지선과 관련된 선거여론조사에 대한 RawData 분석 및 결과에 대한 조작 가능성 검토**
-
+##### 대선·지선과 관련된 선거여론조사에 대한 RawData 분석 및 결과에 대한 조작 가능성 검토
 ▪ Excel 및 Python을 활용한 조사 자료(RawData) 전처리 및 통계분석 후 해석 및 조작 가능성 검토 
 ▪ SPSS를 활용한 교차분석 및 해석
 ▪ 각 지역, 선거별 후보자 혹은 정당의 지지율 추이 시계열 분석 후 그래프 시각화
