@@ -1,7 +1,7 @@
 ---
-title: "my treasure no.1 / 성취의 기록."
+title: "never ending story by data study, 데이터분석 전.문.가."
 layout: archive
-permalink: categories/professional-exp
+permalink: categories/adp
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories.Professional-exp %}
+{% assign posts = site.categories.ADP %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

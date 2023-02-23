@@ -1,7 +1,7 @@
 ---
-title: "Convolutional Neural Network, 답러닝을 배워보자."
+title: "The heroes are born in xell / 비전공자 데이터 청년 캠퍼스 후기."
 layout: archive
-permalink: categories/cnn
+permalink: categories/data-campus
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories.CNN %}
+{% assign posts = site.categories.Data-campus %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

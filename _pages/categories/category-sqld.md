@@ -1,7 +1,7 @@
 ---
-title: "A long way to go... Statistics / 뚜벅뚜벅 통계학"
+title: "never ending story by data study, SQLd 공부하기."
 layout: archive
-permalink: categories/statistics
+permalink: categories/sqld
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories.Statistics %}
+{% assign posts = site.categories.SQLd %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
