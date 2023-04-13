@@ -2,7 +2,6 @@
 title: "never ending story by data study, SQLd 공부하기."
 layout: archive
 permalink: categories/sqld
-author_profile: true
 sidebar_main: true
 ---
 

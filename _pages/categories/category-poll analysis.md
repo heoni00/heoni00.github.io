@@ -2,7 +2,6 @@
 title: "선거관리위원회 여론조사 분석요원 일지"
 layout: archive
 permalink: categories/poll-analysis
-author_profile: true
 sidebar_main: true
 ---
 

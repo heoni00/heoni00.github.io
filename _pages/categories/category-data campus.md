@@ -2,7 +2,6 @@
 title: "The heroes are born in xell / 비전공자 데이터 청년 캠퍼스 후기."
 layout: archive
 permalink: categories/data-campus
-author_profile: true
 sidebar_main: true
 ---
 

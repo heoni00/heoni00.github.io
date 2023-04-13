@@ -2,7 +2,6 @@
 title: "Veni, vidi, vici / 몰입은 성장의 아버지."
 layout: archive
 permalink: categories/project
-author_profile: true
 sidebar_main: true
 ---
 

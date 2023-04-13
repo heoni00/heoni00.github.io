@@ -2,7 +2,6 @@
 title: "never ending story by data study, 데이터분석 전.문.가."
 layout: archive
 permalink: categories/adp
-author_profile: true
 sidebar_main: true
 ---
 

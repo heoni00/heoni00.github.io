@@ -2,7 +2,6 @@
 title: "A long way to go... Statistics / 뚜벅뚜벅 통계학 입문"
 layout: archive
 permalink: categories/stat-basic
-author_profile: true
 sidebar_main: true
 ---
 

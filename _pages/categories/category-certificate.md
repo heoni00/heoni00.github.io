@@ -2,7 +2,6 @@
 title: "A Certificate That Swallows Everything / 자격증 취득로그"
 layout: archive
 permalink: categories/certificate
-author_profile: true
 sidebar_main: true
 ---
 
