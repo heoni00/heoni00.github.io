@@ -2,6 +2,7 @@
 title: "Thank U. Let's not see again anymore / 컴활 열심히 공부해보아요~"
 layout: archive
 permalink: categories/cumhwal
+author_profile: true
 sidebar_main: true
 ---
 

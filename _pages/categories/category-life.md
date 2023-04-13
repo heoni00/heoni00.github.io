@@ -2,6 +2,7 @@
 title: "get away from my secret. 내 생활에 대한 이모조모 🍎🍏"
 layout: archive
 permalink: categories/life
+author_profile: true
 sidebar_main: true
 ---
 

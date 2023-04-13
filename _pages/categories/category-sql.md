@@ -2,6 +2,7 @@
 title: "Don't forget again, 데이터베이스와 SQL"
 layout: archive
 permalink: categories/sql
+author_profile: true
 sidebar_main: true
 ---
 

@@ -2,6 +2,7 @@
 title: "Don't be a fool, 차곡차곡 알아가는 IT지식!"
 layout: archive
 permalink: categories/itterm
+author_profile: true
 sidebar_main: true
 ---
 
