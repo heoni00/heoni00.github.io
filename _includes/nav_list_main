@@ -67,7 +67,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "SDC" %}
-                        <li><a href="/categories/sdc" class="">통계데이터센터 SDC({{category[1].size}})</a></li>
+                        <li><a href="/categories/sdc" class="">통계데이터센터({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>                        
