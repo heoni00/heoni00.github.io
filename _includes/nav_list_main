@@ -66,6 +66,13 @@
         <span class="nav__sub-title">Career</span>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "SDC" %}
+                        <li><a href="/categories/sdc" class="">통계데이터센터 SDC({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>                        
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "Poll-analysis" %}
                         <li><a href="/categories/poll-analysis" class="">선거관리위원회 여론조사분석({{category[1].size}})</a></li>
                     {% endif %}
