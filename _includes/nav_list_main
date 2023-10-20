@@ -56,6 +56,13 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "Bigboon" %}
+                        <li><a href="/categories/bigboon" class="">빅데이터 분석기사({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "SQLd" %}
                         <li><a href="/categories/sqld" class="">SQLd SQL개발자({{category[1].size}})</a></li>
                     {% endif %}
