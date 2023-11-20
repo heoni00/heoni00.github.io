@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Heoni🍯"
 description              : "공부 & 일상 블로그"
-url                      : "https://heoni00.github.io"
+url                      : "https://hyunparrot.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "heoni00/comments" #댓글 경로 / github name/repository
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
